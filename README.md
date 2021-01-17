@@ -2,8 +2,9 @@
 It is an advanced technology that helps in discerning and identifying human faces from an image or video. A system employed to perform facial recognition uses biometrics to map facial features from the photo or video. It compares this information with a large database of recorded faces to find a correct match.
 
 # [[>]] Installations:
-conda install -c conda-forge dlib --> dlib
-pip install face_recognition -->face_recognition
+-> conda install -c conda-forge dlib --> dlib
+
+-> pip install face_recognition -->face_recognition
 
 
 # [[>]] Overwiew of the project:
